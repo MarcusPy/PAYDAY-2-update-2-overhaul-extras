@@ -8,4 +8,4 @@ HopLib - dependency for KillFeed
 
 KillFeed - fancy postmortem log on the side
 
-Ultrawide Fix - made for 49:9 aspect ratio, should work for other ultrawides as well
+Ultrawide Fix - made for 32:9 aspect ratio, should work for other ultrawides as well
