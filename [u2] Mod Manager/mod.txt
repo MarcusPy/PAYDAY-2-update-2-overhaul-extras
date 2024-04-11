@@ -1,0 +1,12 @@
+{
+    "name" : "[u2] Mod Manager",
+    "description" : "Makeshift mod manager since fixing BLT's one is too much of a hassle",
+  	"priority" : 1,
+    "author" : "Marcus",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "Framework.lua"
+		}
+	]
+}
